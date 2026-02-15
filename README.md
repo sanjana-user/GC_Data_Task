@@ -210,6 +210,3 @@ Since this is a regression problem, clustering metrics like WCSS or Inertia are 
 
 ├── README.md # Project explanation
 
-
-
-
